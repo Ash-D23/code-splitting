@@ -1,0 +1,30 @@
+.dashboard{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: azure;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;      
+}
+
+.gallery-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery-container img{
+    height: 400px;
+    width: 30%;
+    margin: 10px;
+}
+
+.center{
+    text-align: center;
+
+}
